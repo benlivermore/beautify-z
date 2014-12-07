@@ -1,0 +1,37 @@
+{
+  "name": "beautify-z",
+  "version": "0.0.0",
+  "description": "js-beautify by specifying glob paths",
+  "main": "beautify-z.js",
+  "scripts": {
+    "test": ""
+  },
+
+  "dependencies": {
+    "js-beautify":"1.5.*",
+    "glob": "4.3.1",
+    "multi-glob": "0.4.*",
+    "q": "1.1.*"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benlivermore/beautify-z.git"
+  },
+
+  "keywords": [
+    "js-beautify",
+    "format",
+    "beautifier",
+    "code-quality",
+    "white",
+    "space"
+  ],
+
+  "author": "Ben Livermore <ben.b.livermore@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benlivermore/beautify-z/issues"
+  },
+  "homepage": "https://github.com/benlivermore/beautify-z"
+}
