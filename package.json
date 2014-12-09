@@ -1,6 +1,6 @@
 {
   "name": "beautify-z",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "js-beautify by specifying glob paths",
   "main": "beautify-z.js",
   "scripts": {
